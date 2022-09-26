@@ -1,3 +1,22 @@
+# Observable Trends
+
+The distric summary tells us that a total of 15 schools, 39,170 students. The total students average reading score is 81.87 which is higher than the average math score 78.98. When we see the passing rate reading (85.80%) has a higher rate than math (74.98 % ),the overall passing rate is 65.17%. These findings indicate that student's score more in reading than math.
+
+The school summary finding showed that from 15 schools 7 of them are found at the district level, and the other 8 of them found at the charter level. The number of students in schools ranged between 427 students (Holden High School) to 4976 students (Bailey High School). The general finding also showed that district schools have more students than charter schools. It is legitimate to conclude that district schools have more students than charter schools because of their geographical coverage.
+
+The school with the highest budget per student is Huang High Scholl ($655 Dollars) as opposed to the school with the lowest budget is Wilson High School ($578 Dollars). And the school with the highest overall % pass rate is Cabrera High School with 91.33% and the lowest % overall pass rate is Rodriguez High School (52.98)
+
+
+
+
+
+
+
+
+
+
+
+
 # Unit 4 Homework: Pandas, Pandas, Pandas
 In this assignment, you’ll create and manipulate Pandas DataFrames to analyze school and standardized test data.
 
